@@ -1,4 +1,4 @@
-// tests/whoIsNext-test.js
+//tests/whoIsNext-test.js
 var chai = require('chai');
 var expect = chai.expect; // we are using the "expect" style of Chai
 var whoIsNext = require('./../src/whoIsNext.js');
