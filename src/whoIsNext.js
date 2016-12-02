@@ -19,7 +19,7 @@ var whoIsNext = function(placeInQueue) {
       queue.push(queue[i]);
       queue.push(queue[i]);
     }
-    console.log("The name of the one who has drunk the drink number " + placeInQueue + " is: " + queue[i - 1]);
+    console.log("The name of the one who has drunk the drink number " + placeInQueue + " is: " + queue[i - 1] + " .");
     return (queue[i - 1]);
   }
 };
