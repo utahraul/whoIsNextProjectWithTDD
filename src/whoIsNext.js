@@ -3,7 +3,7 @@
 //http://codeforces.com/problemset/problem/82/A
 
 var whoIsNext = function(placeInQueue) {
-  var names = [ "Sheldon", "Leonard", "Penny", "Rayesh", "Howard" ];
+  var names = [ "Sheldon", "Leonard", "Penny", "Rajesh", "Howard" ];
   var queue = names;
   var position = placeInQueue - 1;
 
